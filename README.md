@@ -13,11 +13,11 @@ About screen
 Contact screen
 ![contact_readme.png](src%2Fassets%2Fimages%2Fcontact_readme.png)
 
-Setup
+Setup:
 git clone https://github.com/Rebaone27/portfolio
 
-Install required dependencies
+Install required dependencies:
 npm install
 
-Start the server
+Start the server:
 nmp start
