@@ -1,6 +1,6 @@
 Portfolio
 
-This is deployed version of my portfolio site
+Deployed version of my portfolio site https://rebaonemoipolai.netlify.app/
 
 Screenshots
 
@@ -12,3 +12,12 @@ About screen
 
 Contact screen
 ![contact_readme.png](src%2Fassets%2Fimages%2Fcontact_readme.png)
+
+Setup
+git clone https://github.com/Rebaone27/portfolio
+
+Install required dependencies
+npm install
+
+Start the server
+nmp start
