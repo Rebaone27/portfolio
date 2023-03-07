@@ -24,25 +24,25 @@ function Contact() {
                             </p>
 
                             <div className="mt-5">
-                                <a href="tel:0814881194">
+                                <a rel="noreferrer" href="tel:0814881194">
                                     <i className="fa fa-phone"></i> 0814881194
                                 </a>
                             </div>
 
                             <div className="mt-4">
-                                <a href="mailto:moipolairebaone@gmail.com">
+                                <a rel="noreferrer" href="mailto:moipolairebaone@gmail.com">
                                     <i className="fa fa-envelope"></i> moipolairebaone@gmail.com
                                 </a>
                             </div>
 
                             <div className="mt-4">
-                                <a href="https://za.linkedin.com/in/Rebaone-moipolai" target="_blank">
+                                <a rel="noreferrer" href="https://za.linkedin.com/in/Rebaone-moipolai" target="_blank">
                                     <i className="fa fa-linkedin"></i> Rebaone Moipolai
                                 </a>
                             </div>
 
                             <div className="mt-4">
-                                <a href="https://github.com/Rebaone27" target="_blank"><
+                                <a rel="noreferrer" href="https://github.com/Rebaone27" target="_blank"><
                                     i className="fa fa-github"></i> My Git
                                 </a>
                             </div>
@@ -52,6 +52,6 @@ function Contact() {
             </Container>
         </div>
     );
-};
+}
 
 export default Contact;
