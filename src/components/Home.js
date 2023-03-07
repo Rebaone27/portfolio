@@ -17,7 +17,7 @@ function Home() {
                     <div className="col-sm-3 mt-5">
                         <img
                             src="https://media.licdn.com/dms/image/C5603AQGa50pXcFVAOg/profile-displayphoto-shrink_200_200/0/1638773043491?e=1679529600&v=beta&t=3tqu4rE6jFFFwe1m05dq7SiK5nYTUtqCYCj8GW1zRrU"
-                            className="img-responsive img-border" alt="Image"/>
+                            className="img-responsive img-border" alt="RebaoneMoipolai"/>
                     </div>
                     <div className="col-sm-9">
                         <section>

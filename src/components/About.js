@@ -82,7 +82,7 @@ function About() {
                         <p>I hold a bachelor's degree in Social Sciences majoring in Industrial Psychology and Psychology. I have
                             completed Software Engineering bootcamp at HyperionDev with 99% average score, archiving number one spot
                             in the bootcamp, click the link to view the completion certificate
-                            <a href="https://drive.google.com/file/d/1hUaBDg8hdq7VhintM9OvGHZtuo8ITGys/view?usp=share_link"> Bootcamp
+                            <a rel="noreferrer" href="https://drive.google.com/file/d/1hUaBDg8hdq7VhintM9OvGHZtuo8ITGys/view?usp=share_link"> Bootcamp
                                 Certificate</a>.
                             I guess we are now studying the brain
                             of the computer. click the link to check HyperionDev out <a href="https://www.hyperiondev.com">HyperionDev</a>
@@ -93,13 +93,19 @@ function About() {
                         <h3 className="mt-4">Projects</h3>
                         <ul className="demo">
                             <li>
-                                <a href="https://github.com/Rebaone27/CapstoneFinal" target="_blank">Task Manager</a>
+                                <a rel="noreferrer" href="https://github.com/Rebaone27/CapstoneFinal" target="_blank">
+                                    Task Manager
+                                </a>
                             </li>
                             <li>
-                                <a href="https://github.com/Rebaone27/CapstoneProject4" target="_blank">Inventory System</a>
+                                <a rel="noreferrer" href="https://github.com/Rebaone27/CapstoneProject4" target="_blank">
+                                    Inventory System
+                                </a>
                             </li>
                             <li>
-                                <a href="https://github.com/Rebaone27/Poised" target="_blank">Poised</a>
+                                <a rel="noreferrer" href="https://github.com/Rebaone27/Poised" target="_blank">
+                                    Poised
+                                </a>
                             </li>
                         </ul>
                     </div>
@@ -115,6 +121,6 @@ function About() {
             </Container>
         </div>
     );
-};
+}
 
 export default About;
